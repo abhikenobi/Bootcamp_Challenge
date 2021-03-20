@@ -1,4 +1,4 @@
-# Bootcamp Week 1 Homework
+# Bootcamp Week 1: Excelling at Excel
 
 ## Excel-Challenge
 
